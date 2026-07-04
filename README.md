@@ -12,7 +12,7 @@ Build, test, and deploy a real-world application using every core Azure DevOps s
 - Build CI/CD pipelines with **Azure Pipelines** (YAML, multi-stage)
 - Deploy to an **Azure VM** using a **self-hosted agent**
 - Containerize apps with **Docker** and **Docker Compose**
-- Explore **Azure Artifacts**, **Test Plans**, dashboards, and security
+- Explore **Azure Artifacts**, **Test Plans**, dashboards, and security 
 - (Bonus) Provision infrastructure with **Terraform**
 
 ## The Project: SkillPulse
